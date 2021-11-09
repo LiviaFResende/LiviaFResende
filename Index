@@ -25,16 +25,16 @@ section {
 </style>
 <body>
   <nav>
-    <h1>MILA TAGARELA</h1>
+    <h1>MY TEXT</h1>
     <ul class="navrow">
-      <li>Maternidade no exterior 💛</li>
-      <li>Moda com propósito ♻️</li>
-      <li>MentoriaMMM</li>
-      <li>#milatagarela</li>
+      <li>NAV1</li>
+      <li>NAV2</li>
+      <li>NAV3</li>
+      <li>NAV4</li>
     </ul>
   </nav>
   <section>
-    <img src="https://www.instagram.com/p/CT9hgT9lLWC/" alt="">
+    <P>mY PARAGRAPH HERE</P>
     </section>
 </body>
 
