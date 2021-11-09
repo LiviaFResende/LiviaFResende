@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<style>
+body {
+  background-image: linear-gradient(to left, #917f9e, #f3f2f2);
+}
+nav {
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  border: 1px solid;
+  padding: 20px;
+  justify-content: space-between;
+}
+section {
+  width: 100%;
+}
+</style>
+<body>
+  <nav>
+    <h1>MILA TAGARELA</h1>
+    <ul class="navrow">
+      <li>Maternidade no exterior 💛</li>
+      <li>Moda com propósito ♻️</li>
+      <li>MentoriaMMM</li>
+      <li>#milatagarela</li>
+    </ul>
+  </nav>
+  <section>
+    <img src="https://www.instagram.com/p/CT9hgT9lLWC/" alt="">
+    </section>
+</body>
+
+</html>
