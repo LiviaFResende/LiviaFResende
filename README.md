@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LiviaFResende
-- 🌱 I’m currently learning the basics of web development
+- 🌱 I’m currently practicing HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate in class
 
 <!---
