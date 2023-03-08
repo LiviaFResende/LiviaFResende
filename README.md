@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiviaFResende
 - 🌱 I’m currently practicing HTML, CSS and JavaScript, GIT, GitHub, Command Line, Bootstrap and React.
-- 💞️ I’m looking to collaborate in class
+- I’m looking to collaborate in class
 
 <!---
 LiviaFResende/LiviaFResende is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
